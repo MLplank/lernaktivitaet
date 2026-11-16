@@ -1,0 +1,2 @@
+# lernaktivitaet
+Lernaktivität für Infodidaktik
